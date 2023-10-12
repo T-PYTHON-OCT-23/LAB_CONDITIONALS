@@ -1,4 +1,4 @@
-movie = omarAlmokhtar
+movie = 'omarAlmokhtar'
 rate = 5
 popularity_score=72.65
 if rate >=4 and popularity_score >80:
