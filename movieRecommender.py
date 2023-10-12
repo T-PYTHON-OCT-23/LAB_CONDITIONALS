@@ -1,4 +1,4 @@
-nameOfMovie:str = input("enter a name of the movie: ")
+nameOfMovie:str = input("enter a name of a movie: ")
 rateOfMovie:int = int(input("enter its rating out of 5: "))
 popularityOfMovie:float = float(input("enter its popularity score: "))
 
