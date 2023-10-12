@@ -14,3 +14,4 @@ elif rate <=2 and popularity >50 :
 #else the movie rating is 2 or less and the popularity is less than 50 , print "Don't watch it. It is a waste of time"
 else :
     print("Don't watch it. It is a waste of time")
+    
