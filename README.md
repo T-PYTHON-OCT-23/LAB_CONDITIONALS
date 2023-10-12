@@ -19,7 +19,7 @@
 - You only accept @gmail emails . 
 - if the email is valid, display a welcome message to the user . for example :
 ```
-welcome Ahmed, you registered with the email ahmed@gmail.com !
+welcome Ahmed, you registered with the email ahmed@glmai.com !
 
 ```
 - if the email or name is not valid, display the message : 
